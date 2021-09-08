@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name nypx06-cache)(type Legacy)(uri ${KIPRJMOD}/nypx06-cache.lib)(options "")(descr ""))
+  (lib (name ms80f0601)(type Legacy)(uri ${KIPRJMOD}/ms80f0601)(options "")(descr ""))
+)
